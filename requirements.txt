@@ -6,3 +6,5 @@ matplotlib
 neattext
 streamlit
 joblib
+jupyter
+datasets
